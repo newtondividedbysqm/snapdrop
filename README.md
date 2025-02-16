@@ -1,7 +1,12 @@
-# Snapdrop 
+# A Non-Crypto-Scam-Fork of Snapdrop 
 
-[Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
+Snapdrop used to be be a well-known open source, peer2peer file sharing service, inspired by Apple's Airdrop that sent files ONLY through the local network. In beginning of 2025 the whole site was bought out by LimeWire which redirected all functionalities to LimeWire's CLOUD BASED service, hence all fles are being uploaded into the LimeWire Cloud, instead of staying on the local network.  
+[https://github.com/uBlockOrigin/uAssets/issues/27172]  
 
+This is a fork to preserve the state of the repository before the aquisition, i.e. for Self-Hositng  
+The current sentiment seems to be in favor of switching over to [PairDrop](https://github.com/schlagmichdoch/PairDrop)  
+[https://github.com/SnapDrop/snapdrop/issues/651]
+[https://github.com/fm-sys/snapdrop-android/issues/406]
 
 #### Snapdrop is built with the following awesome technologies:
 * Vanilla HTML5 / ES6 / CSS3 frontend
@@ -18,15 +23,14 @@ You can [host your own instance with Docker](/docs/local-dev.md).
 ## Support the Snapdrop Community
 Snapdrop is free. Still, we have to pay for the server. If you want to contribute, please use PayPal:
 
-[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=MG8GV7YCYT352)
+REDACTED
 
 or Bitcoin:
+REDACTED
 
-[<img src="https://coins.github.io/thx/logo-color-large-pill-320px.png" alt="CoinThx" width="200"/>](https://coins.github.io/thx/#1K9zQ8f4iTyhKyHWmiDKt21cYX2QSDckWB?label=Snapdrop&message=Thanks!%20Your%20contribution%20helps%20to%20keep%20Snapdrop%20free%20for%20everybody!) 
+REDACTED
 
-[Bitcoin Lighting](https://tippin.me/@robin_linus)
-
-Alternatively, you can become a [Github Sponsor](https://github.com/sponsors/RobinLinus).
+Alternatively, you can become a REDACTED
 
 Thanks a lot for supporting free and open software!
 
